@@ -1,4 +1,10 @@
 ### Hi there 👋
+ <style>
+        img {
+            display: inline-block;
+            margin: 10px; /* Añade margen entre las imágenes si lo deseas */
+        }
+    </style>
 <h1>SKILLS</h1>
 <img src="c_icon.png" alt="C Icon" width="100">
 <img src="csharp_icon.png" alt="C# Icon" width="100">
