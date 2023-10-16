@@ -1,4 +1,7 @@
 ### Hi there 👋
+<h1>SKILLS</h1>
+
+
 
 <!--
 **P0ll021/P0ll021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
