@@ -4,7 +4,7 @@
  <div style="white-space: nowrap;">
 <img src="c_icon.png" alt="C Icon" width="49"">
 <img src="csharp_icon.png" alt="C# Icon" width="49">
-<img src="data_base_icon.png" alt="Database Icon" width="49">
+<img src="database_icon.png" alt="Database Icon" width="49">
 <img src="java_icon.png" alt="Java Icon" width="49">
 <img src="linux_icon_gif.gif" alt="Linux Icon (GIF)" width="49">
 </div>
