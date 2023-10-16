@@ -10,6 +10,8 @@
 <img src="android_icon.png" alt="Android Icon" width="49">
 </div>
 
+<a src="https://www.buymeacoffee.com/Aman21">
+
 <!--
 **P0ll021/P0ll021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
