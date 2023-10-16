@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=4C566A&width=435&lines=WELCOME+TO+MY+PROFILE%2C+I'M+AMAN21)
 ---------------------------------------------
 <p>- I'm working with Java language, managing object oriented programming (OOP), graphical environment with SWING.</p>
-<p>- I´m working with .NET, C#</p>
+<p>- I´m working with .NET and C#</p>
 <p>- SQL, PSQL, relational database, object-oriented database.</p>
 <p>- I use VS Community to work graphically with C#, .NET framework workload.</p>
 <p>- I usually work with Kotlin in Android Studio, but I focus more on Java.</p>
