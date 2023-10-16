@@ -7,6 +7,7 @@
 <img src="database_icon.png" alt="Database Icon" width="49">
 <img src="java_icon.png" alt="Java Icon" width="49">
 <img src="linux_icon_gif.gif" alt="Linux Icon (GIF)" width="49">
+<img src="android_icon.gif" alt="Android Icon" width="49">
 </div>
 
 <!--
