@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 <h1>SKILLS</h1>
-<img src="c_icon.png" alt="C Icon" width="49" style="display: inline-block; margin: 10px;">
-<img src="csharp_icon.png" alt="C# Icon" width="49" style="display: inline-block; margin: 10px;">
-<img src="data_base_icon.png" alt="Database Icon" width="49" style="display: inline-block; margin: 10px;">
-<img src="java_icon.png" alt="Java Icon" width="49" style="display: inline-block; margin: 10px;">
-<img src="linux_icon_gif.gif" alt="Linux Icon (GIF)" width="49" style="display: inline-block; margin: 10px;">
-
+ <div style="white-space: nowrap;">
+<img src="c_icon.png" alt="C Icon" width="49"">
+<img src="csharp_icon.png" alt="C# Icon" width="49">
+<img src="data_base_icon.png" alt="Database Icon" width="49">
+<img src="java_icon.png" alt="Java Icon" width="49">
+<img src="linux_icon_gif.gif" alt="Linux Icon (GIF)" width="49">
+</div>
 
 <!--
 **P0ll021/P0ll021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
