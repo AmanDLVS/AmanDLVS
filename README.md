@@ -11,7 +11,7 @@
 </div>
 <br>
 <a src="https://www.buymeacoffee.com/Aman21">
-    <img src="cafe_icon" alt="Cafe">
+    <img src="cafe_icon.png" alt="Cafe">
 </a>
 
 
