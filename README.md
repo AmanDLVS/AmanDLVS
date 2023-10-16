@@ -14,18 +14,11 @@
 
 
 ##SKILLS
- <div style="white-space: nowrap;">
-<img src="c_icon.png" alt="C Icon" width="49"">
-<img src="csharp_icon.png" alt="C# Icon" width="49">
-<img src="database_icon.png" alt="Database Icon" width="49">
-<img src="java_icon.png" alt="Java Icon" width="49">
-<img src="linux_icon_gif.gif" alt="Linux Icon (GIF)" width="49">
-<img src="android_icon.png" alt="Android Icon" width="49">
-</div>
+
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kladoov&layout=compact&theme=dark)](https://github.com/kladoov/github-readme-stats)
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,postgres,androidstudio,html,css,js" /></a>
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,postgres,androidstudio,Linux,html,css,js,Eclipse-Dark,c,cs" /></a>
 
 <a href="" target="_blank"><img src="cafe_icon.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
