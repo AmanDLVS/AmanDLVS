@@ -11,7 +11,8 @@
 <br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,postgres,androidstudio,linux,html,css,js,eclipse,c,docker,python" /></a>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P0ll021&layout=compact&theme=dark)](https://github.com/P0ll021/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman21&layout=compact&theme=dark)](https://github.com/Aman21/github-readme-stats)
 
 <br>
 
