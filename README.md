@@ -1,5 +1,6 @@
 ### Hi there 👋
 <h1>SKILLS</h1>
+<img src="c_icon.png"/><img src="java_icon.png"/><img src="csharp_icon.png"/><img src="data_base_icon.png"/><img src="linux_icon.png"/>
 
 
 
