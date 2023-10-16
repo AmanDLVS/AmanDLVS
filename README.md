@@ -1,7 +1,10 @@
 ### Hi there 👋
 <h1>SKILLS</h1>
-<img src="c_icon.png"/><img src="java_icon.png"/><img src="csharp_icon.png"/><img src="data_base_icon.png"/><img src="linux_icon.png"/>
-
+<img src="c_icon.png" alt="C Icon" width="100">
+<img src="csharp_icon.png" alt="C# Icon" width="100">
+<img src="data_base_icon.png" alt="Database Icon" width="100">
+<img src="java_icon.png" alt="Java Icon" width="100">
+<img src="linux_icon_gif.gif" alt="Linux Icon (GIF)" width="100">
 
 
 <!--
