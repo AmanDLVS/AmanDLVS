@@ -9,8 +9,9 @@
 
 <p>- I'm working with Java language, managing object oriented programming (OOP), graphical environment with SWING.</p>
 <p>- I´m working with .NET and C#</p>
+<p>- I have worked with code in Lua aimed at game servers</p>
 <p>- SQL, PSQL, relational database, object-oriented database.</p>
-<p>- I use VS Community to work graphically with C#, .NET framework workload.</p>
+<p>- I have basic knowledge of HTML, CSS and Javascript.</p>
 <p>- I usually work with Java in Android Studio</p>
 
 <br>
