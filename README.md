@@ -3,7 +3,7 @@
 ---------------------------------------------
 ### SKILLS
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,postgres,androidstudio,linux,html,css,js,eclipse,c,docker,python,php,discordBots" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,postgres,androidstudio,linux,html,css,js,eclipse,c,docker,python,php,discordbots" /></a>
 <br>
 <br>
 
