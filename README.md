@@ -3,7 +3,7 @@
 ---------------------------------------------
 ### SKILLS
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,postgres,androidstudio,linux,html,css,js,eclipse,c,docker,python,php,discordbots,idea,lua" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,postgres,androidstudio,linux,html,css,js,eclipse,c,docker,php,discordbots,idea,lua" /></a>
 <br>
 <br>
 
@@ -13,7 +13,7 @@
 <p>- SQL, PSQL, relational database, object-oriented database.</p>
 <p>- I have basic knowledge of HTML, CSS and Javascript.</p>
 <p>- I usually work with Java in Android Studio</p>
-<p>- FULL STACK DEVELOPER FOR MOBILE APPS WITH JAVA</p>
+
 
 <br>
 <br>
