@@ -13,6 +13,7 @@
 <p>- SQL, PSQL, relational database, object-oriented database.</p>
 <p>- I have basic knowledge of HTML, CSS and Javascript.</p>
 <p>- I usually work with Java in Android Studio</p>
+<p>- FULL STACK DEVELOPER FOR MOBILE APPS WITH JAVA</p>
 
 <br>
 <br>
