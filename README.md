@@ -2,10 +2,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=4C566A&width=435&lines=WELCOME+TO+MY+PROFILE%2C+I'M+AMAN21)
 ---------------------------------------------
 ### SKILLS
-<br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,postgres,androidstudio,linux,html,css,js,eclipse,c,docker,php,discordbots,idea,lua" /></a>
-<br>
-<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDLVS&layout=compact&theme=dark)](https://github.com/AmanDLVS/github-readme-stats)
+
 
 <p>- I'm working with Java language, managing object oriented programming (OOP), graphical environment with SWING.</p>
 <p>- I´m working with .NET and C#</p>
@@ -15,9 +15,6 @@
 <p>- I usually work with Java in Android Studio</p>
 
 
-<br>
-<br>
-
 
 
 
@@ -26,7 +23,6 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P0ll021&layout=compact&theme=dark)](https://github.com/P0ll021/github-readme-stats)
 
 <br>
 
