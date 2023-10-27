@@ -21,6 +21,8 @@
 <h1>BUY ME COFFE :)</h1>
 <a href="" target="_blank"><img src="cafe_icon.png" alt="Buy Me A Coffee" style="height: 96px !important;width: 96px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <br>
+
+![Visitor Count](https://profile-counter.glitch.me/Fer3D/count.svg)
 <br>
 
 
