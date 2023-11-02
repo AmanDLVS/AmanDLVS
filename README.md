@@ -6,6 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDLVS&layout=compact&theme=dark)](https://github.com/AmanDLVS/github-readme-stats)
 
+Diseño: Aleksander Kladov
 
 <p>- I'm working with Java language, managing object oriented programming (OOP), graphical environment with SWING.</p>
 <p>- I´m working with .NET and C#</p>
@@ -28,7 +29,7 @@
 <br>
 
 <!--
-Diseño: Aleksander Kladov
+
 
 
 
